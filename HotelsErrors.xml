@@ -2,59 +2,51 @@
 <Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="Hotels.xsd">
 
-  
 
 
 
   <Hotel>
     <Name>Hyatt Place</Name>
     <Phone>602-555-1234</Phone>
-    <Address>
+    <Address NearestAirport="Sky Harbor">
       <Number>940</Number>
       <Street>W Broadway Rd</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85282</Zip>
-           <NearstAirport>Sky Harbor</NearstAirport>
     </Address>
   </Hotel>
 
 
-  <Hotel>
+  <Hotel Rating="3.5">
     <Name>Marriott</Name>
-    <Rating>3.5</Rating>     
-
-    <Address>
+    <Address NearestAirport="Phoenix-Mesa Gateway">
       <Number>2000</Number>
       <Street>E Rio Salado Pkwy</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      <NearstAirport>Phoenix-Mesa Gateway</NearstAirport>
     </Address>
   </Hotel>
 
 
-  <Hotel>
+  <Hotel Rating="4.1">
     <Name>Hilton</Name>
     <Phone>480-555-9876</Phone>
-    <Rating>4.1</Rating>      
-    <Address>
+    <Address NearestAirport="Sky Harbor">
       <Number>500</Number>
       <Street>S Mill Ave</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      <NearstAirport>Sky Harbor</NearstAirport>
 
   </Hotel>
 
 
-  <Hotel>
+  <Hotel Rating="4.0">
     <Name>Holiday Inn</Name>
     <Name>Holiday Inn Express</Name>
     <Phone>480-111-2222</Phone>
-    <Rating>4.0</Rating>
     <Address>
       <Number>1600</Number>
       <Street>N Scottsdale Rd</Street>
