@@ -2,47 +2,54 @@
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="Hotels.xsd">
 	
-	<Hotel Rating="4.2">
+	<Hotel>
 		<Name>Westin</Name>
 		<Phone>800-937-8461</Phone>
 		<Phone>480-968-8885</Phone>
+		<Rating>4.2</Rating>
 		<Address NearstAirport="Sky Harbor">
 			<Number>11</Number>
 			<Street>E.7th St</Street>
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
+			<NearstAirport> Sky Harbor </NearstAirport>
 		</Address>
 	</Hotel>
-	<Hotel Rating="4.5">
+	<Hotel>
 		<Name>Grand Plaza Hotel</Name>
 		<Phone>888-555-1001</Phone>
 		<Phone>602-111-2222</Phone>
-		<Address NearstAirport="Phoenix International">
+		<Rating>4.5</Rating>
+		<Address>
 			<Number>2500</Number>
 			<Street>W. Camelback Rd</Street>
 			<City>Phoenix</City>
 			<State>AZ</State>
 			<Zip>85017</Zip>
+			<NearstAirport>Phoenix International</NearstAirport>
 		</Address>
 	</Hotel>
 
-	<Hotel Rating="3.8">
+	<Hotel>
 		<Name>Desert Oasis Resort</Name>
 		<Phone>800-555-3003</Phone>
-		<Address NearstAirport="Tucson International">
+		<Rating> 3.8 </Rating>
+		<Address>
 			<Number>123</Number>
 			<Street>S. Resort Way</Street>
 			<City>Tucson</City>
 			<State>AZ</State>
 			<Zip>85701</Zip>
+			<NearstAirport>Tucson International</NearstAirport>
 		</Address>
 	</Hotel>
 
-	<Hotel Rating="4.1">
+	<Hotel>
 		<Name>Mountain View Lodge</Name>
 		<Phone>888-777-4567</Phone>
 		<Phone>928-333-4444</Phone>
+		<Rating> 4.1 </Rating>
 		<Address>
 			<Number>450</Number>
 			<Street>N. Forest Rd</Street>
@@ -52,35 +59,40 @@
 		</Address>
 	</Hotel>
 
-	<Hotel Rating="4.7">
+	<Hotel>
 		<Name>Sunset Paradise</Name>
 		<Phone>855-123-4567</Phone>
 		<Phone>480-987-6543</Phone>
-		<Address NearstAirport="Scottsdale Municipal">
+		<Rating>4.7</Rating>
+		<Address>
 			<Number>7800</Number>
 			<Street>E. Paradise Ln</Street>
 			<City>Scottsdale</City>
 			<State>AZ</State>
 			<Zip>85251</Zip>
+			<NearstAirport>Scottsdale Municipal</NearstAirport>
 		</Address>
 	</Hotel>
 
-	<Hotel Rating="3.9">
+	<Hotel>
 		<Name>Canyon Inn</Name>
 		<Phone>800-222-3333</Phone>
-		<Address NearstAirport="Grand Canyon National">
+		<Rating>3.9</Rating>
+		<Address>
 			<Number>100</Number>
 			<Street>Highway 64</Street>
 			<City>Grand Canyon Village</City>
 			<State>AZ</State>
 			<Zip>86023</Zip>
+			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
 	</Hotel>
 
-	<Hotel Rating="4.3">
+	<Hotel>
 		<Name>Urban Suites</Name>
 		<Phone>877-444-5555</Phone>
 		<Phone>602-555-6789</Phone>
+		<Rating>4.3</Rating>
 		<Address>
 			<Number>3300</Number>
 			<Street>Central Ave</Street>
@@ -90,11 +102,11 @@
 		</Address>
 	</Hotel>
 
-	<Hotel Rating="4.0">
+	<Hotel>
 		<Name>Palm Court Hotel</Name>
 		<Phone>800-777-8888</Phone>
 		<Phone>623-444-1111</Phone>
-		<Address NearstAirport="Goodyear Airport">
+		<Address">
 			<Number>1500</Number>
 			<Street>W. Palm Ln</Street>
 			<City>Goodyear</City>
@@ -103,22 +115,24 @@
 		</Address>
 	</Hotel>
 
-	<Hotel Rating="3.7">
+	<Hotel>
 		<Name>Riverwalk Inn</Name>
 		<Phone>855-888-9999</Phone>
-		<Address NearstAirport="Yuma International">
+		<Address>
 			<Number>250</Number>
 			<Street>Colorado River Rd</Street>
 			<City>Yuma</City>
 			<State>AZ</State>
 			<Zip>85364</Zip>
+			<NearstAirport>Yuma International</NearstAirport>
 		</Address>
 	</Hotel>
 
-	<Hotel Rating="4.4">
+	<Hotel>
 		<Name>Highland Retreat</Name>
 		<Phone>888-999-0000</Phone>
 		<Phone>928-777-8888</Phone>
+		<Rating>4.4</Rating>
 		<Address>
 			<Number>5000</Number>
 			<Street>Pine Mountain Dr</Street>
@@ -128,11 +142,11 @@
 		</Address>
 	</Hotel>
 
-	<Hotel Rating="4.6">
+	<Hotel>
 		<Name>Lakeside Resort</Name>
 		<Phone>800-123-7890</Phone>
 		<Phone>928-555-1234</Phone>
-		<Address NearstAirport="Payson Airport">
+		<Address>
 			<Number>1200</Number>
 			<Street>Lakeview Blvd</Street>
 			<City>Payson</City>
