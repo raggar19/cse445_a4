@@ -2,13 +2,14 @@
 <Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:noNamespaceSchemaLocation="Hotels.xsd">
 
+  
 
 
 
   <Hotel>
     <Name>Hyatt Place</Name>
     <Phone>602-555-1234</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>940</Number>
       <Street>W Broadway Rd</Street>
       <City>Tempe</City>
@@ -20,7 +21,7 @@
 
   <Hotel Rating="3.5">
     <Name>Marriott</Name>
-    <Address NearestAirport="Phoenix-Mesa Gateway">
+    <Address NearstAirport="Phoenix-Mesa Gateway">
       <Number>2000</Number>
       <Street>E Rio Salado Pkwy</Street>
       <City>Tempe</City>
@@ -33,7 +34,7 @@
   <Hotel Rating="4.1">
     <Name>Hilton</Name>
     <Phone>480-555-9876</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>500</Number>
       <Street>S Mill Ave</Street>
       <City>Tempe</City>
